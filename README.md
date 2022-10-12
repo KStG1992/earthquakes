@@ -3,7 +3,7 @@
 ## Background
 This publication is a map of earthquake data from the United States Geological Survey. This map visualizes earthquakes with magnitudes greater than 4.5 in the past 7 days. Each color represents the depth, while the size of the marker denotes the magnitude. Feel free to click on any marker for information. 
 
-Click [here]() for published version on GitHub.
+Click [here](https://kstg1992.github.io/earthquakes/) for published version on GitHub.
 
 ## Contents
 * [index.html](index.html)
